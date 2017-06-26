@@ -1,0 +1,5 @@
+Uso Arduino IDE de pendrive . Configuro antivirus con exclusiones. Tutorial en 
+https://www.luisllamas.es/arduino-dht11-dht22/
+Pero en realidad vale el ejemplo de la librería de Adafruit DHT tester
+Se ejecuta el compilador en unos 9 segundos con subida
+Busco ayuda sobre función “isnan” returns 1 if "not a number"
