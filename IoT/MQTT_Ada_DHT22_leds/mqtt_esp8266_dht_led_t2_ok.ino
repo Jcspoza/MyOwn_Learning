@@ -27,14 +27,14 @@ int ledYelslidPin = 12; // GPIO13 = D6, con resistencia de 100 ohm, sera PMW, co
 /************************* WiFi Access Point *********************************/
 
 #define WLAN_SSID       "belkin.75e"
-#define WLAN_PASS       "7e6f4669"
+#define WLAN_PASS       "........."
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
 #define AIO_USERNAME    "jcspoza"
-#define AIO_KEY         "53c6942f279642d5b8a5c0fe401a9245"
+#define AIO_KEY         "........"
 
 /************ Global State (you don't need to change this!) ******************/
 
