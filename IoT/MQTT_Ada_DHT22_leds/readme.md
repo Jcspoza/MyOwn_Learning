@@ -1,5 +1,4 @@
 TEMA	      IoT	/ SENSORS
-
 Time:       2017W13.6	Sabado	25-3-2017
 OBJETIVES:	MQTT de Adafruit con DHT + led on/off + Led PMW
 SKETCK :    sketch	mqtt_esp8266_dht_led_v1
